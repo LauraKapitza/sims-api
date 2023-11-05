@@ -77,8 +77,13 @@ WSGI_APPLICATION = 'sims.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
+        "HOST": "localhost",
+        "PORT": 5432,
+        "NAME": "sims",
+        "USER": "postgres",
+        "PASSWORD": "postgres",
         "OPTIONS": {
-            "passfile": ".my_pgpass",
+            "passfile": ".py_pgpass",
         },
     }
 }
