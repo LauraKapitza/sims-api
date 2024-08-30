@@ -3,36 +3,16 @@ import os
 import json
 
 from django.db import models
+from django.utils.text import slugify
 
 
-class Aspiration:
-    aspirations = []
-
-    def __init__(self, difficulty):
-        self.difficulty = difficulty
-        self.load_list()
-
-    def __repr__(self):
-        return repr(self.aspirations)
-
-    def load_list(self):
-        script_dir = os.path.dirname(__file__)
-        file_path = os.path.join(script_dir, './data/aspirations.json')
-        with open(file_path, "r") as f:
-            self.aspirations = json.load(f)
-
-    # add pack restriction to condition
-    # difficulty "super-easy" should get aspirations with career restriction
-    def get_random_aspiration(self):
-        filtered_aspirations = []
-        for asp in self.aspirations:
-            for res in asp["restriction"]:
-                if self.difficulty == "moderate":
-                    if res["type"] != "career":
-                        filtered_aspirations.append(asp)
-
-        random_num = (randrange(len(filtered_aspirations) - 1))
-        return filtered_aspirations[random_num]
+class Aspiration(models.Model):
+    name = models.CharField(max_length=250)
+    #reward_trait = models.CharField(max_length=250)
+    #bonus_trait = models.CharField(max_length=250)
+    category = models.CharField(max_length=250)
+    #pack: "Cats & Dogs",
+    #restriction: []
 
 
 class Career:
@@ -79,32 +59,16 @@ class Sim:
         return traits.get_random_traits()
 
 
-class Traits:
-    traits = []
+class Traits(models.Model):
+    name = models.CharField(max_length=250)
+    slug = models.CharField(max_length=250, blank=True, null=True)
+    category = models.CharField(max_length=250)
+    #aspiration: []
+    #pack: null
+    #conflict: ["lazy"]
+    positivity = models.IntegerField(default=0)
 
-    def __init__(self, difficulty):
-        self.difficulty = difficulty
-        self.load_list()
+    def save(self, **kwargs):
+        self.slug = slugify(self.name)
+        super().save(**kwargs)
 
-    def __repr__(self):
-        return repr(self.traits)
-
-    def load_list(self):
-        script_dir = os.path.dirname(__file__)
-        file_path = os.path.join(script_dir, './data/traits.json')
-        with open(file_path, "r") as f:
-            self.traits = json.load(f)
-
-    def get_random_traits(self):
-        filtered_traits = []
-        for tr in self.traits:
-            if tr["category"] not in ["Reward", "Bonus", "child-reward", "toddler", "Career"]:
-                filtered_traits.append(tr)
-
-        chosen_traits = []
-        for _ in range(3):
-            random_num = randrange(len(filtered_traits) - 1)
-            chosen_trait = filtered_traits[random_num]
-            chosen_traits.append(chosen_trait)
-
-        return chosen_traits

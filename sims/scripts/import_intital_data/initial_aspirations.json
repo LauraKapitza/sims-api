@@ -1,0 +1,821 @@
+[
+    {
+      "id": "aspiration-1",
+      "name": "Friend of the Animals",
+      "reward_trait": "Animal Whispere",
+      "bonus_trait": "Animal Affection",
+      "category": "Animal",
+      "pack": "Cats & Dogs",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-2",
+      "name": "Bodybuilder",
+      "reward_trait": "Long Lived",
+      "bonus_trait": "High Metabolism",
+      "category": "Athletic",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-3",
+      "name": "Extreme Sports Enthusiast",
+      "reward_trait": "Survival Instinct",
+      "bonus_trait": "High Metabolism",
+      "category": "Athletic",
+      "pack": "Snowy Escape",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-4",
+      "name": "The Positivity Challenge",
+      "reward_trait": "Kindness Ambassador",
+      "bonus_trait": null,
+      "category": "Challenge",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-5",
+      "name": "Painter Extraordinaire",
+      "reward_trait": "Expressionistic ",
+      "bonus_trait": "Muser",
+      "category": "Creativity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-6",
+      "name": "Musical Genius",
+      "reward_trait": "Piper",
+      "bonus_trait": "Muser",
+      "category": "Creativity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-7",
+      "name": "Bestselling Author",
+      "reward_trait": "Poetic",
+      "bonus_trait": "Muser",
+      "category": "Creativity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-8",
+      "name": "Master Actor/Master Actress",
+      "reward_trait": "World-Renowned Actor/Actress",
+      "bonus_trait": "Muser",
+      "category": "Creativity",
+      "pack": "Get Famous",
+      "restriction": [
+        {
+          "type": "career",
+          "name": "Actor"
+        },
+        {
+          "type": "age",
+          "name": "Adult"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-9",
+      "name": "Master Maker",
+      "reward_trait": "Muse of the Maker",
+      "bonus_trait": "Muser",
+      "category": "Creativity",
+      "pack": "Eco Lifestyle",
+      "restriction": [
+        {
+          "type": "career",
+          "name": "Freelancer"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-10",
+      "name": "Lord/Lady of the Knits",
+      "reward_trait": "Sacred Knitting Knowledge",
+      "bonus_trait": "Muser",
+      "category": "Creativity",
+      "pack": "Nifty Knitting Stuff",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-11",
+      "name": "Public Enemy ",
+      "reward_trait": "Mastermind",
+      "bonus_trait": "Dastardly",
+      "category": "Deviance",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "career",
+          "name": "Criminal"
+        },
+        {
+          "type": "age",
+          "name": "Adult"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-12",
+      "name": "Chief of Mischief",
+      "reward_trait": "Tormentor",
+      "bonus_trait": "Dastardly",
+      "category": "Deviance",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-13",
+      "name": "Twisted Heart",
+      "reward_trait": "Twisted Heart",
+      "bonus_trait": "Dastardly",
+      "category": "Deviance",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-14",
+      "name": "Successful Lineage",
+      "reward_trait": "Vicarious",
+      "bonus_trait": "Domestic",
+      "category": "Family",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "adult"
+        },
+        {
+          "type": "family_relationship",
+          "name": "parent"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-15",
+      "name": "Big Happy Family",
+      "reward_trait": "Matriarch/Patriarch",
+      "bonus_trait": "Domestic",
+      "category": "Family",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "adult"
+        },
+        {
+          "type": "family_relationship",
+          "name": "parent"
+        },
+        {
+          "type": "family_relationship",
+          "name": "grandparent"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-16",
+      "name": "Vampire Family",
+      "reward_trait": "I am the Master",
+      "bonus_trait": "Domestic",
+      "category": "Family",
+      "pack": "Vampires",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "vampire"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-17",
+      "name": "Super Parent",
+      "reward_trait": "Role Model",
+      "bonus_trait": "Domestic",
+      "category": "Family",
+      "pack": "Parenthood",
+      "restriction": [
+        {
+          "type": "age",
+          "name": "adult"
+        },
+        {
+          "type": "family_relationship",
+          "name": "parent"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-18",
+      "name": "Master Chef",
+      "reward_trait": "Fresh Chef",
+      "bonus_trait": "Essence of Flavor",
+      "category": "Food",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "career",
+          "name": "culinary"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-19",
+      "name": "Master Mixologist",
+      "reward_trait": "Potion Master",
+      "bonus_trait": "Essence of Flavor",
+      "category": "Food",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "career",
+          "name": "culinary"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-20",
+      "name": "Fabulously Wealthy",
+      "reward_trait": "Shrewd",
+      "bonus_trait": "Business Savvy",
+      "category": "Fortune",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-21",
+      "name": "Mansion Baron",
+      "reward_trait": "Thrifty",
+      "bonus_trait": "Business Savvy",
+      "category": "Fortune",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-22",
+      "name": "Renaissance Sim",
+      "reward_trait": "Professorial",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "adult"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-23",
+      "name": "Nerd Brain",
+      "reward_trait": "Handy",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-24",
+      "name": "Computer Whiz",
+      "reward_trait": "High Tech",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "career",
+          "name": "tech guru"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-25",
+      "name": "Master Vampire",
+      "reward_trait": "Master Vampire",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": "Vampires",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "vampire"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-26",
+      "name": "Archaeology Scholar",
+      "reward_trait": "Museum Patron",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": "Jungle Adventure",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-27",
+      "name": "Spellcraft & Sorcery",
+      "reward_trait": "Slinger of Spells",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": "Realm of Magic",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "spellcaster"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-28",
+      "name": "Academic",
+      "reward_trait": "Higher Education",
+      "bonus_trait": "Quick Learner",
+      "category": "Knowledge",
+      "pack": "Discover University",
+      "restriction": [
+        {
+          "type": "age",
+          "name": "young adult"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-29",
+      "name": "Serial Romantic",
+      "reward_trait": "Player",
+      "bonus_trait": "Alluring",
+      "category": "Love",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-30",
+      "name": "Soulmate",
+      "reward_trait": "Companion",
+      "bonus_trait": "Alluring",
+      "category": "Love",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "adult"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-31",
+      "name": "City Native",
+      "reward_trait": "In the Know",
+      "bonus_trait": "Home Turf",
+      "category": "Location",
+      "pack": "City Living",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-32",
+      "name": "StrangerVille Mystery",
+      "reward_trait": "Hero of StrangerVille",
+      "bonus_trait": "Home Turf",
+      "category": "Location",
+      "pack": "Strangerville",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-33",
+      "name": "Beach Life",
+      "reward_trait": "Laid-Back",
+      "bonus_trait": "Home Turf",
+      "category": "Location",
+      "pack": "Island Living",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-34",
+      "name": "Mt. Komorebi Sightseer",
+      "reward_trait": "Worldly Knowledge",
+      "bonus_trait": "Home Turf",
+      "category": "Location",
+      "pack": "Snowy Escape",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-35",
+      "name": "Perfectly Pristine",
+      "reward_trait": "Fast & Fastidious",
+      "bonus_trait": "Home Turf",
+      "category": "Location",
+      "pack": "Bust The Dust",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-36",
+      "name": "Fabulously Filthy",
+      "reward_trait": "Filth Dweller",
+      "bonus_trait": "Home Turf",
+      "category": "Location",
+      "pack": "Bust The Dust",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-37",
+      "name": "Freelance Botanist",
+      "reward_trait": "Naturalist",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-38",
+      "name": "The Curator",
+      "reward_trait": "Appraiser",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-39",
+      "name": "Angling Ace",
+      "reward_trait": "Angler's Tranquility",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-40",
+      "name": "Outdoor Enthusiast",
+      "reward_trait": "Survivalist",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": "Outdoor Retreat",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-41",
+      "name": "Jungle Explorer",
+      "reward_trait": "Treasure Hunter",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": "Jungle Adventure",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-42",
+      "name": "Purveyor of Potions",
+      "reward_trait": "Master Mixer",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": "Realm of Magic",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "spellcaster"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-43",
+      "name": "Eco Innovator",
+      "reward_trait": "Influential Individual",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": "Eco Lifestyle",
+      "restriction": [
+        {
+          "type": "career",
+          "name": "civil designer"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-44",
+      "name": "Country Caretaker",
+      "reward_trait": "Nature Conversationalist",
+      "bonus_trait": "Collector",
+      "category": "Nature",
+      "pack": "Cottage Living",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-45",
+      "name": "Joke Star",
+      "reward_trait": "Hilarious",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "career",
+          "name": "entertainer"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-46",
+      "name": "Party Animal",
+      "reward_trait": "Perfect Host",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-47",
+      "name": "Friend of the World",
+      "reward_trait": "Beloved",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-48",
+      "name": "Neighborhood Confidante",
+      "reward_trait": "Confidante",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-49",
+      "name": "Leader of the Pack",
+      "reward_trait": "Natural Leader",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": "Get Together",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-50",
+      "name": "Good Vampire",
+      "reward_trait": "Regained Humanity",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": "Vampires",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "vampire"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-51",
+      "name": "World-Famous Celebrity",
+      "reward_trait": "Unstoppable Fame",
+      "bonus_trait": "Gregarious",
+      "category": "Popularity",
+      "pack": null,
+      "restriction": []
+    },
+    {
+      "id": "aspiration-52",
+      "name": "Hope VS Order",
+      "reward_trait": "A Gift of Credits",
+      "bonus_trait": "Prepared Voyager",
+      "category": "Star Wars",
+      "pack": "Journey to Batuu",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-53",
+      "name": "Paragon of Hope",
+      "reward_trait": "Heroic Presence",
+      "bonus_trait": "Prepared Voyager",
+      "category": "Star Wars",
+      "pack": "Journey to Batuu",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-54",
+      "name": "Enforcer of Order",
+      "reward_trait": "Supreme Authority",
+      "bonus_trait": "Prepared Voyager",
+      "category": "Star Wars",
+      "pack": "Journey to Batuu",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-55",
+      "name": "Galactic Privateer",
+      "reward_trait": "Sleight of Hand",
+      "bonus_trait": "Prepared Voyager",
+      "category": "Star Wars",
+      "pack": "Journey to Batuu",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-56",
+      "name": "Inner Peace",
+      "reward_trait": "Clear Perspective",
+      "bonus_trait": "Spa Membership",
+      "category": "Wellness",
+      "pack": "Spa Day",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-57",
+      "name": "Self-Care Specialist",
+      "reward_trait": "Self-Care Expertise",
+      "bonus_trait": "Spa Membership",
+      "category": "Wellness",
+      "pack": "Spa Day",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-58",
+      "name": "Zen Guru",
+      "reward_trait": "Calming Aura",
+      "bonus_trait": "Spa Membership",
+      "category": "Wellness",
+      "pack": "Spa Day",
+      "restriction": []
+    },
+    {
+      "id": "aspiration-59",
+      "name": "Drama Llama",
+      "reward_trait": "Untroubled",
+      "bonus_trait": "Relatable",
+      "category": "Teen",
+      "pack": "High School Years",
+      "restriction": [
+        {
+          "type": "age",
+          "name": "teen"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-60",
+      "name": "Goal Oriented",
+      "reward_trait": "Highflier",
+      "bonus_trait": "Relatable",
+      "category": "Teen",
+      "pack": "High School Years",
+      "restriction": [
+        {
+          "type": "age",
+          "name": "teen"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-61",
+      "name": "Live Fast",
+      "reward_trait": "Dauntless",
+      "bonus_trait": "Relatable",
+      "category": "Teen",
+      "pack": "High School Years",
+      "restriction": [
+        {
+          "type": "age",
+          "name": "teen"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-62",
+      "name": "Admired Icon",
+      "reward_trait": "Iconic",
+      "bonus_trait": "Relatable",
+      "category": "Teen",
+      "pack": "High School Years",
+      "restriction": [
+        {
+          "type": "age",
+          "name": "teen"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-63",
+      "name": "Werewolf Initiate",
+      "reward_trait": "Fanged Friend",
+      "bonus_trait": "Lunar Confidant",
+      "category": "Werewolf",
+      "pack": "Werewolves",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "werewolf"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-64",
+      "name": "Emissary of the Collective",
+      "reward_trait": "Refined Lupine",
+      "bonus_trait": "Lunar Confidant",
+      "category": "Werewolf",
+      "pack": "Werewolves",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "werewolf"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-65",
+      "name": "Wildfang Renegade",
+      "reward_trait": "Chomp Champion",
+      "bonus_trait": "Lunar Confidant",
+      "category": "Werewolf",
+      "pack": "Werewolves",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "werewolf"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-66",
+      "name": "Lone Wolf",
+      "reward_trait": "Threatening Presence",
+      "bonus_trait": "Lunar Confidant",
+      "category": "Werewolf",
+      "pack": "Werewolves",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "werewolf"
+        }
+      ]
+    },
+    {
+      "id": "aspiration-67",
+      "name": "Cure Seeker",
+      "reward_trait": "Lunar Link",
+      "bonus_trait": "Lunar Confidant",
+      "category": "Werewolf",
+      "pack": "Werewolves",
+      "restriction": [
+        {
+          "type": "state",
+          "name": "werewolf"
+        }
+      ]
+    },
+    {
+      "id": "child-aspiration-1",
+      "name": "Artistic Prodigy",
+      "reward_trait": "Creatively Gifted",
+      "category": "creativity",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "child"
+        }
+      ]
+    },
+    {
+      "id": "child-aspiration-2",
+      "name": "Rambunctious Scamp",
+      "reward_trait": "Physically Gifted",
+      "category": "athletic",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "child"
+        }
+      ]
+    },
+    {
+      "id": "child-aspiration-3",
+      "name": "Social Butterfly",
+      "reward_trait": "Socially Gifted",
+      "category": "popularity",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "child"
+        }
+      ]
+    },
+    {
+      "id": "child-aspiration-4",
+      "name": "Whiz Kid",
+      "reward_trait": "Mentally Gifted",
+      "category": "knowledge",
+      "pack": null,
+      "restriction": [
+        {
+          "type": "age",
+          "name": "child"
+        }
+      ]
+    }
+]

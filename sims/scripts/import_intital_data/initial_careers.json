@@ -1,0 +1,800 @@
+[
+  {
+    "id": "career-1",
+    "name":"Astronaut",
+    "branches": [
+      {
+        "name": "Space Ranger",
+        "pack": null
+      },
+      {
+        "name": "Interstellar Smuggler",
+        "pack": null
+      }],
+    "best_aspirations": [
+      {
+        "name": "Bodybuilder",
+        "branch": null
+      },
+      {
+        "name": "Nerd Brain",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Active",
+        "branch": null
+      },
+      {
+        "name": "Genius",
+        "branch": null
+      },
+      {
+        "name": "Geek",
+        "branch": null
+      },
+      {
+        "name": "Loves Outdoor",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-2",
+    "name": "Athlete",
+    "branches": [
+      {
+        "name": "Professional Athlete",
+        "pack": null
+      },
+      {
+        "name":"Bodybuilder",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Bodybuilder",
+        "branch": null
+      },
+      {
+        "name": "Friend to the World",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Loves Outdoor",
+        "branch": null
+      },
+      {
+        "name": "Outgoing",
+        "branch": null
+      },
+      {
+        "name": "Active",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-3",
+    "name": "Business",
+    "branches": [
+      {
+        "name": "Management",
+        "pack": null
+      },
+      {
+        "name": "Investor",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Fabulously Wealthy",
+        "branch": null
+      },
+      {
+        "name": "Mansion Baron",
+        "branch": null
+      },
+      {
+        "name": "Friend to the World",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Genius",
+        "branch": null
+      },
+      {
+        "name": "Self-assured",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-4",
+    "name": "Criminal",
+    "branches": [
+      {
+        "name": "Boss",
+        "pack": null
+      },
+      {
+        "name": "Oracle",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Public Enemy",
+        "branch": null
+      },
+      {
+        "name": "Chief of Mischief",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Evil",
+        "branch": null
+      },
+      {
+        "name": "Mean",
+        "branch": null
+      },
+      {
+        "name": "Hot-Headed",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-5",
+    "name": "Culinary",
+    "branches": [
+      {
+        "name": "Chef",
+        "pack": null
+      },
+      {
+        "name": "Mixologist",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Master Chef",
+        "branch": "Chef"
+      },
+      {
+        "name": "Master Mixologist",
+        "branch": "Mixologist"
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Foodie",
+        "branch": null
+      },
+      {
+        "name": "Creative",
+        "branch": null
+      },
+      {
+        "name": "Neat",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-6",
+    "name":"Entertainer",
+    "branches": [
+      {
+        "name": "Musician",
+        "pack": null
+      },
+      {
+        "name": "Comedian",
+        "pack": null
+      }],
+    "best_aspirations": [
+      {
+        "name": "Joke Star",
+        "branch": "Comedian"
+      },
+      {
+        "name": "Musical Genius",
+        "branch": "Musician"
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Music Lover",
+        "branch": "Musician"
+      },
+      {
+        "name": "Goofball",
+        "branch": "Comedian"
+      },
+      {
+        "name": "Outgoing",
+        "branch": "Comedian"
+      },
+      {
+        "name": "Creative",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-7",
+    "name":"Freelancer",
+    "branches": [
+      {
+        "name": "Digital Artist",
+        "pack": null
+      },
+      {
+        "name": "Programmer",
+        "pack": null
+      },
+      {
+        "name": "Writer",
+        "pack": null
+      },
+      {
+        "name": "Fashion Photographer",
+        "pack": "Moschino Stuff"
+      },
+      {
+        "name": "Crafter",
+        "pack": "Eco Lifestyle"
+      },
+      {
+        "name": "Paranormal Investigator",
+        "pack": "Paranormal Stuff"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [
+      {
+        "name": "Geek",
+        "branch": "Programmer"
+      },
+      {
+        "name": "Genius",
+        "branch": "Programmer"
+      },
+      {
+        "name": "Ambitious",
+        "branch": "Programmer"
+      },
+      {
+        "name": "Creative",
+        "branch": "Digital Artist"
+      },
+      {
+        "name": "Perfectionist",
+        "branch": "Digital Artist"
+      },
+      {
+        "name": "Art lover",
+        "branch": "Digital Artist"
+      },
+      {
+        "name": "Creative",
+        "branch": "Writer"
+      },
+      {
+        "name": "Perfectionist",
+        "branch": "Writer"
+      },
+      {
+        "name": "Book worm",
+        "branch": "Writer"
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-8",
+    "name": "Painter",
+    "branches": [
+      {
+        "name": "Master of the Real",
+        "pack": null
+      },
+      {
+        "name": "Patron of the Arts",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Painter Extraordinaire",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Creative",
+        "branch": null
+      },
+      {
+        "name": "Outgoing",
+        "branch": "Patron of the Arts"
+      },
+      {
+        "name": "Genius",
+        "branch": "Master of the Real"
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-9",
+    "name":"Secret Agent",
+    "branches": [
+      {
+        "name": "Diamond Agent",
+        "pack": null
+      },
+      {
+        "name": "Villain",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Serial Romantic",
+        "branch": "Diamond Agent"
+      },
+      {
+        "name": "Chief of Mischief",
+        "branch": "Villain"
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Genius",
+        "branch": null
+      },
+      {
+        "name": "Outgoing",
+        "branch": null
+      },
+      {
+        "name": "Mean",
+        "branch": "Villain"
+      },
+      {
+        "name": "Romantic",
+        "branch": "Diamond Agent"
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-10",
+    "name":"Self-Employed",
+    "branches": [
+      {
+        "name": "Retail",
+        "pack": "Get to Work"
+      },
+      {
+        "name": "Restaurant",
+        "pack": "Dine Out"
+      },
+      {
+        "name": "Vet Clinic",
+        "pack": "Cats & Dogs"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": null
+  },
+  {
+    "id": "career-11",
+    "name":"Style Influencer",
+    "branches": [
+      {
+        "name": "Trendsetter",
+        "pack": null
+      },
+      {
+        "name": "Stylist",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Friend to the World",
+        "branch": null
+      },
+      {
+        "name": "Painter Extraordinaire",
+        "branch": null
+      },
+      {
+        "name": "Bestselling Author",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Creative",
+        "branch": null
+      },
+      {
+        "name": "Muser",
+        "branch": null
+      },
+      {
+        "name": "Poetic",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-12",
+    "name":"Tech Guru",
+    "branches": [
+      {
+        "name": "eSport Gamer",
+        "pack": null
+      },
+      {
+        "name": "Start-up Entrepreneur",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Computer whiz",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Loner",
+        "branch": null
+      },
+      {
+        "name": "Genius",
+        "branch": null
+      },
+      {
+        "name": "Geek",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-13",
+    "name":"Writer",
+    "branches": [
+      {
+        "name": "Author",
+        "pack": null
+      },
+      {
+        "name": "Journalist",
+        "pack": null
+      }
+    ],
+    "best_aspirations": [
+      {
+        "name": "Best Selling Author",
+        "branch": null
+      }
+    ],
+    "best_traits": [
+      {
+        "name": "Creative",
+        "branch": null
+      },
+      {
+        "name": "Genius",
+        "branch": null
+      },
+      {
+        "name": "Loner",
+        "branch": null
+      }
+    ],
+    "pack": null
+  },
+  {
+    "id": "career-14",
+    "name":"Detective",
+    "branches": [],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Get to Work"
+  },
+  {
+    "id": "career-15",
+    "name":"Doctor",
+    "branches": [],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Get to Work"
+  },
+  {
+    "id": "career-16",
+    "name":"Scientist",
+    "branches": [],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Get to Work"
+  },
+  {
+    "id": "career-17",
+    "name":"Critic",
+    "branches": [
+      {
+        "name": "Arts Critic",
+        "pack": "City Living"
+      },
+      {
+        "name": "Food Critic",
+        "pack": "City Living"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "City Living"
+  },
+  {
+    "id": "career-18",
+    "name":"Politician",
+    "branches": [
+      {
+        "name": "Politician",
+        "pack": "City Living"
+      },
+      {
+        "name": "Charity Organizer",
+        "pack": "City Living"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "City Living"
+  },
+  {
+    "id": "career-19",
+    "name":"Social Media",
+    "branches": [
+      {
+        "name": "Internet Personality",
+        "pack": "City Living"
+      },
+      {
+        "name": "Public Relations",
+        "pack": "City Living"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "City Living"
+  },
+  {
+    "id": "career-20",
+    "name":"Gardener",
+    "branches": [
+      {
+        "name": "Botanist",
+        "pack": "Seasons"
+      },
+      {
+        "name": "Floral Designer",
+        "pack": "Seasons"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Seasons"
+  },
+  {
+    "id": "career-21",
+    "name":"Actor",
+    "branches": [],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Get Famous"
+  },
+  {
+    "id": "career-22",
+    "name":"Military",
+    "branches": [
+      {
+        "name": "Covert Operator",
+        "pack": "StrangerVille"
+      },
+      {
+        "name": "Officer",
+        "pack": "StrangerVille"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "StrangerVille"
+  },
+  {
+    "id": "career-23",
+    "name":"Conservationist",
+    "branches": [
+      {
+        "name": "Environmental Manager",
+        "pack": "Island Living"
+      },
+      {
+        "name": "Marine Biologist",
+        "pack": "Island Living"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Island Living"
+  },
+  {
+    "id": "career-24",
+    "name":"Education",
+    "branches": [
+      {
+        "name": "Administrator",
+        "pack": "Discover University"
+      },
+      {
+        "name": "Professor",
+        "pack": "Discover University"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Discover University"
+  },
+  {
+    "id": "career-25",
+    "name":"Engineer",
+    "branches": [
+      {
+        "name": "Computer Engineer",
+        "pack": "Discover University"
+      },
+      {
+        "name": "Mechanical Engineer",
+        "pack": "Discover University"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Discover University"
+  },
+  {
+    "id": "career-26",
+    "name":"Law",
+    "branches": [
+      {
+        "name": "Judge",
+        "pack": "Discover University"
+      },
+      {
+        "name": "Private Attorney",
+        "pack": "Discover University"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Discover University"
+  },
+  {
+    "id": "career-27",
+    "name":"Civil Designer",
+    "branches": [
+      {
+        "name": "Civic Planner",
+        "pack": "Eco Lifestyle"
+      },
+      {
+        "name": "Green Technician",
+        "pack": "Eco Lifestyle"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Eco Lifestyle"
+  },
+  {
+    "id": "career-28",
+    "name":"Salaryperson",
+    "branches": [
+      {
+        "name": "Expert",
+        "pack": "Snowy Escape"
+      },
+      {
+        "name": "Supervisor",
+        "pack": "Snowy Escape"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Snowy Escape"
+  },
+  {
+    "id": "career-29",
+    "name":"Interior Decorator",
+    "branches": [],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": "Dream Home Decorator"
+  },
+  {
+    "id": "career-30",
+    "name":"Part-time",
+    "branches": [
+      {
+        "name": "Babysitter",
+        "pack": null
+      },
+      {
+        "name": "Barista",
+        "pack": null
+      },
+      {
+        "name": "Fast Food Employee",
+        "pack": null
+      },
+      {
+        "name": "Manual Laborer",
+        "pack": null
+      },
+      {
+        "name": "Retail Employee",
+        "pack": null
+      },
+      {
+        "name": "Diver",
+        "pack": "Island Living"
+      },
+      {
+        "name": "Fisherman",
+        "pack": "Island Living"
+      },
+      {
+        "name": "Lifeguard",
+        "pack": "Island Living"
+      },
+      {
+        "name": "Simfluencer",
+        "pack": "High School Years"
+      },
+      {
+        "name": "Video Game Streamer",
+        "pack": "High School Years"
+      }
+    ],
+    "best_aspirations": [],
+    "best_traits": [],
+    "pack": ""
+  }
+]

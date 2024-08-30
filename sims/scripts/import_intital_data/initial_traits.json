@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "active",
+    "name": "Active",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [ "lazy" ],
+    "positivity": 0
+  },
+  {
+    "id": "cheerful",
+    "name": "Cheerful",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["gloomy", "hot-headed"],
+    "positivity": 1
+  },
+  {
+    "id": "creative",
+    "name": "Creative",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "genius",
+    "name": "Genius",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 0
+
+  },
+  {
+    "id": "gloomy",
+    "name": "Gloomy",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["cheerful", "hot-headed", "party-animal"],
+    "positivity": -1
+  },
+  {
+    "id": "goofball",
+    "name": "Goofball",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["snob"],
+    "positivity": 1
+  },
+  {
+    "id": "high-maintenance",
+    "name": "High Maintenance",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": "Spa Day",
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "hot-headed",
+    "name": "Hot-Headed",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["cheerful", "gloomy"],
+    "positivity": -1
+  },
+  {
+    "id": "romantic",
+    "name": "Romantic",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["unflirty"],
+    "positivity": 0
+  },
+  {
+    "id": "self-assured",
+    "name": "Self-Assured",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "unflirty",
+    "name": "Unflirty",
+    "category": "Emotional",
+    "aspiration": [],
+    "pack": "City Living",
+    "conflict": ["romantic"],
+    "positivity": -1
+  },
+  {
+    "id": "art-lover",
+    "name": "Art Lover",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "bookworm",
+    "name": "Bookworm",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "foodie",
+    "name": "Foodie",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["freegan", "glutton"],
+    "positivity": 0
+  },
+  {
+    "id": "geek",
+    "name": "Geek",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "maker",
+    "name": "Maker",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": "Eco Lifestyle",
+    "conflict": [ "clumsy", "lazy" ],
+    "positivity": 0
+  },
+  {
+    "id": "music-lover",
+    "name": "Music Lover",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "perfectionist",
+    "name": "Perfectionist",
+    "category": "Hobby",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "adventurous",
+    "name": "Adventurous",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Snowy Escape",
+    "conflict": ["lazy"],
+    "positivity": 1
+  },
+  {
+    "id": "ambitious",
+    "name": "Ambitious",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["freegan", "lazy"],
+    "positivity": 0
+  },
+  {
+    "id": "animal-enthusiast",
+    "name": "Animal Enthusiast",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Cottage Living",
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "cat-lover",
+    "name": "Cat Lover",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Cats & Dogs",
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "child-of-the-islands",
+    "name": "Child of the Islands",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Island Living",
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "child-of-the-ocean",
+    "name": "Child of the Ocean",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Island Living",
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "childish",
+    "name": "Childish",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["evil", "hates-children", "snob"],
+    "positivity": 1
+  },
+  {
+    "id": "clumsy",
+    "name": "Clumsy",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [ "maker" ],
+    "positivity": 0
+  },
+  {
+    "id": "dance-machine",
+    "name": "Dance Machine",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Get Together",
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "dog-lover",
+    "name": "Dog Lover",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Cats & Dogs",
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "erratic",
+    "name": "Erratic",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": -1
+  },
+  {
+    "id": "freegan",
+    "name": "Freegan",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Eco Lifestyle",
+    "conflict": ["ambitious", "foodie", "materialistic", "snob", "squeamish"],
+    "positivity": 0
+  },
+  {
+    "id": "glutton",
+    "name": "Glutton",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["foodie", "squeamish"],
+    "positivity": 0
+  },
+  {
+    "id": "green-fiend",
+    "name": "Green Fiend",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Eco Lifestyle",
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "kleptomaniac",
+    "name": "Kleptomaniac",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["good"],
+    "positivity": -1
+  },
+  {
+    "id": "lactose-intolerant",
+    "name": "Lactose Intolerant",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Cottage Living",
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "lazy",
+    "name": "Lazy",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [ "active", "adventurous", "ambitious", "maker", "neat", "overachiever" ],
+    "positivity": -1
+  },
+  {
+    "id": "loves-outdoors",
+    "name": "Loves Outdoors",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["squeamish"],
+    "positivity": 0
+  },
+  {
+    "id": "materialistic",
+    "name": "Materialistic",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["freegan"],
+    "positivity": 0
+  },
+  {
+    "id": "neat",
+    "name": "Neat",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["lazy", "slob"],
+    "positivity": 1
+  },
+  {
+    "id": "overachiever",
+    "name": "Overachiever",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "High School Years",
+    "conflict": [ "lazy" ],
+    "positivity": 1
+  },
+  {
+    "id": "recycle-disciple",
+    "name": "Recycle Disciple",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Eco Lifestyle",
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "slob",
+    "name": "Slob",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["neat", "proper", "squeamish"],
+    "positivity": -1
+  },
+  {
+    "id": "snob",
+    "name": "Snob",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["childish", "freegan", "goofball"],
+    "positivity": 0
+
+  },
+  {
+    "id": "squeamish",
+    "name": "Squeamish",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": "Outdoor Retreat",
+    "conflict": ["freegan", "glutton", "loves-outdoors", "slob"],
+    "positivity": -1
+  },
+  {
+    "id": "vegetarian",
+    "name": "Vegetarian",
+    "category": "Lifestyle",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "bro",
+    "name": "Bro",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": 1
+  },
+  {
+    "id": "evil",
+    "name": "Evil",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["Childish", "Good"],
+    "positivity": -1
+  },
+  {
+    "id": "family-oriented",
+    "name": "Family-oriented",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["hates-children", "noncommittal"],
+    "positivity": 1
+  },
+  {
+    "id": "good",
+    "name": "Good",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["evil", "kleptomaniac", "mean"],
+    "positivity": 1
+  },
+  {
+    "id": "hates-children",
+    "name": "Hates Children",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["childish", "family-oriented"],
+    "positivity": -1
+  },
+  {
+    "id": "insider",
+    "name": "Insider",
+    "category": "Social",
+    "aspiration": [],
+    "pack": "Get Together",
+    "conflict": ["loner"],
+    "positivity": 1
+  },
+  {
+    "id": "jealous",
+    "name": "Jealous",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": [],
+    "positivity": -1
+  },
+  {
+    "id": "loner",
+    "name": "Loner",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["insider", "outgoing", "party-animal"],
+    "positivity": -1
+  },
+  {
+    "id": "mean",
+    "name": "Mean",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["good", "proper"],
+    "positivity": -1
+  },
+  {
+    "id": "noncommittal",
+    "name": "Noncommittal",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["family-oriented"],
+    "positivity": -1
+  },
+  {
+    "id": "outgoing",
+    "name": "Outgoing",
+    "category": "Social",
+    "aspiration": [],
+    "pack": null,
+    "conflict": ["loner", "paranoid", "socially-awkward"],
+    "positivity": 0
+  },
+  {
+    "id": "paranoid",
+    "name": "Paranoid",
+    "category": "Social",
+    "aspiration": [],
+    "pack": "StrangerVille",
+    "conflict": ["outgoing"],
+    "positivity": -1
+  },
+  {
+    "id": "party-animal",
+    "name": "Party Animal",
+    "category": "Social",
+    "aspiration": [],
+    "pack": "High School Years",
+    "conflict": ["gloomy", "loner", "socially-awkward"],
+    "positivity": 1
+  },
+  {
+    "id": "proper",
+    "name": "Proper",
+    "category": "Social",
+    "aspiration": [],
+    "pack": "Snowy Escape",
+    "conflict": ["mean", "slob"],
+    "positivity": 1
+  },
+  {
+    "id": "self-absorbed",
+    "name": "Self-Absorbed",
+    "category": "Social",
+    "aspiration": [],
+    "pack": "Get Famous",
+    "conflict": [],
+    "positivity": 0
+  },
+  {
+    "id": "socially-awkward",
+    "name": "Socially Awkward",
+    "category": "Social",
+    "aspiration": [],
+    "pack": "High School Years",
+    "conflict": ["outgoing", "party-animal"],
+    "positivity": -1
+  },
+  {
+    "id": "animal-affection",
+    "name": "Animal Affection",
+    "category": "Bonus",
+    "aspiration": ["Animal"],
+    "pack": "Cats & Dogs"
+  },
+  {
+    "id": "high -metabolism",
+    "name": "High Metabolism",
+    "category": "Bonus",
+    "aspiration": ["Athletic"],
+    "pack": null
+  },
+  {
+    "id": "muser",
+    "name": "Muser",
+    "category": "Bonus",
+    "aspiration": ["Creativity"],
+    "pack": null
+  },
+  {
+    "id": "dastardly",
+    "name": "Dastardly",
+    "category": "Bonus",
+    "aspiration": ["Deviance"],
+    "pack": null
+  },
+  {
+    "id": "domestic",
+    "name": "Domestic",
+    "category": "Bonus",
+    "aspiration": ["Family"],
+    "pack": null
+  },
+  {
+    "id": "essence-of-flavor",
+    "name": "Essence of Flavor",
+    "category": "Bonus",
+    "aspiration": ["Food"],
+    "pack": null
+  },
+  {
+    "id": "business-savvy",
+    "name": "Business Savvy",
+    "category": "Bonus",
+    "aspiration": ["Fortune"],
+    "pack": null
+  },
+  {
+    "id": "quick-learner",
+    "name": "Quick Learner",
+    "category": "Bonus",
+    "aspiration": ["Knowledge"],
+    "pack": null
+  },
+  {
+    "id": "home-turf",
+    "name": "Home Turf",
+    "category": "Bonus",
+    "aspiration": ["Location"],
+    "pack": ["Bust the Dust", "City Living", "Island Living", "Snowy Escape", "StrangerVille"]
+  },
+  {
+    "id": "alluring",
+    "name": "Alluring",
+    "category": "Bonus",
+    "aspiration": ["Love"],
+    "pack": null
+  },
+  {
+    "id": "collector",
+    "name": "Collector",
+    "category": "Bonus",
+    "aspiration": ["Nature"],
+    "pack": null
+  },
+  {
+    "id": "gregarious",
+    "name": "Gregarious",
+    "category": "Bonus",
+    "aspiration": ["Popularity"],
+    "pack": null
+  },
+  {
+    "id": "prepared-voyager",
+    "name": "Prepared Voyager",
+    "category": "Bonus",
+    "aspiration": ["Star Wars"],
+    "pack": "Journey to Batuu"
+  },
+  {
+    "id": "relatable",
+    "name": "Relatable",
+    "category": "Bonus",
+    "aspiration": ["Teen"],
+    "pack": "High School Years"
+  },
+  {
+    "id": "spa-membership",
+    "name": "Spa Membership",
+    "category": "Bonus",
+    "aspiration": [ "Zen Guru", "Inner Peace", "Self-Care Specialist"],
+    "pack": "Spa Day"
+  },
+  {
+    "id": "lunar-confidant",
+    "name": "Lunar Confidant",
+    "category": "Bonus",
+    "aspiration": ["Werewolf"],
+    "pack": "Werewolves"
+  },
+  {
+    "id": "animal-whisperer",
+    "name": "Animal Whisperer",
+    "category": "Reward",
+    "aspiration": ["Friend of the Animals"],
+    "pack": "Cats & Dogs"
+  },
+  {
+    "id": "long-lived",
+    "name": "Long Lived",
+    "category": "Reward",
+    "aspiration": ["Bodybuilder"],
+    "pack": null
+  },
+  {
+    "id": "survival-instinct",
+    "name": "Survival Instinct",
+    "category": "Reward",
+    "aspiration": ["Extreme Sports Enthusiast"],
+    "pack": "Snowy Escape"
+  },
+  {
+    "id": "kindness-ambassador",
+    "name": "Kindness Ambassador",
+    "category": "Reward",
+    "aspiration": ["The Positivity Challenge"],
+    "pack": null
+  },
+  {
+    "id": "expressionistic",
+    "name": "Expressionistic",
+    "category": "Reward",
+    "aspiration": ["Painter Extraordinaire"],
+    "pack": null
+  },
+  {
+    "id": "poetic",
+    "name": "Poetic",
+    "category": "Reward",
+    "aspiration": ["Bestselling Author"],
+    "pack": null
+  },
+  {
+    "id": "piper",
+    "name": "Piper",
+    "category": "Reward",
+    "aspiration": ["Musical Genius"],
+    "pack": null
+  },
+  {
+    "id": "world-renowned-actor",
+    "name": "World-Renowned Actor",
+    "category": "Reward",
+    "aspiration": ["Master Actor"],
+    "pack": "Get Famous"
+  },
+  {
+    "id": "muse-of-the-maker",
+    "name": "Muse of the Maker",
+    "category": "Reward",
+    "aspiration": ["Master Maker"],
+    "pack": "Eco Lifestyle"
+  },
+  {
+    "id": "sacred-knitting-knowledge",
+    "name": "Sacred Knitting Knowledge",
+    "category": "Reward",
+    "aspiration": ["Lord/Lady of the Knits"],
+    "pack": "Nifty Knitting Stuff"
+  },
+  {
+    "id": "mastermind",
+    "name": "Mastermind",
+    "category": "Reward",
+    "aspiration": ["Public Enemy"],
+    "pack": null
+  },
+  {
+    "id": "tormentor",
+    "name": "Tormentor",
+    "category": "Reward",
+    "aspiration": ["Chief of Mischief"],
+    "pack": null
+  },
+  {
+    "id": "twisted-heart",
+    "name": "Twisted Heart",
+    "category": "Reward",
+    "aspiration": ["Villainous Valentine"],
+    "pack": null
+  },
+  {
+    "id": "vicarious",
+    "name": "Vicarious",
+    "category": "Reward",
+    "aspiration": ["Successful Lineage"],
+    "pack": null
+  },
+  {
+    "id": "matriarchpatriarch",
+    "name": "Matriarch/Patriarch",
+    "category": "Reward",
+    "aspiration": ["Big Happy Family"],
+    "pack": null
+  },
+  {
+    "id": "i-am-the-master",
+    "name": "I am the Master",
+    "category": "Reward",
+    "aspiration": ["Vampire Family"],
+    "pack": "Vampires"
+  },
+  {
+    "id": "role-model",
+    "name": "Role Model",
+    "category": "Reward",
+    "aspiration": ["Super Parent"],
+    "pack": "Parenthood"
+  },
+  {
+    "id": "fresh-chef",
+    "name": "Fresh Chef",
+    "category": "Reward",
+    "aspiration": ["Master Chef"],
+    "pack": null
+  },
+  {
+    "id": "potion-master",
+    "name": "Potion Master",
+    "category": "Reward",
+    "aspiration": ["Master Mixologist"],
+    "pack": null
+  },
+  {
+    "id": "shrewd",
+    "name": "Shrewd",
+    "category": "Reward",
+    "aspiration": ["Fabulously Wealthy"],
+    "pack": null
+  },
+  {
+    "id": "thrifty",
+    "name": "Thrifty",
+    "category": "Reward",
+    "aspiration": ["Mansion Baron"],
+    "pack": null
+  },
+  {
+    "id": "a-true-master",
+    "name": "A True Master",
+    "category": "Reward",
+    "aspiration": ["Master Vampire"],
+    "pack": "Vampires"
+  },
+  {
+    "id": "handy",
+    "name": "Handy",
+    "category": "Reward",
+    "aspiration": ["Nerd Brain"],
+    "pack": null
+  },
+  {
+    "id": "higher-education",
+    "name": "Higher Education",
+    "category": "Reward",
+    "aspiration": ["Academic"],
+    "pack": "Discover University"
+  },
+  {
+    "id": "museum-patron",
+    "name": "Museum Patron",
+    "category": "Reward",
+    "aspiration": ["Archaeology Scholar"],
+    "pack": "Jungle Adventure"
+  },
+  {
+    "id": "professorial",
+    "name": "Professorial",
+    "category": "Reward",
+    "aspiration": ["Renaissance Sim"],
+    "pack": null
+  },
+  {
+    "id": "slinger-of-spells",
+    "name": "Slinger of Spells",
+    "category": "Reward",
+    "aspiration": ["Spellcraft & Sorcery"],
+    "pack": "Realm of Magic"
+  },
+  {
+    "id": "webmaster",
+    "name": "Webmaster",
+    "category": "Reward",
+    "aspiration": ["Computer Whiz"],
+    "pack": null
+  },
+  {
+    "id": "in-the-know",
+    "name": "In the Know",
+    "category": "Reward",
+    "aspiration": ["City Native"],
+    "pack": "City Living"
+  },
+  {
+    "id": "hero-of-strangerville",
+    "name": "Hero of StrangerVille",
+    "category": "Reward",
+    "aspiration": ["StrangerVille Mystery"],
+    "pack": "StrangerVille"
+  },
+  {
+    "id": "laid-back",
+    "name": "Laid-Back",
+    "category": "Reward",
+    "aspiration": ["Beach Life"],
+    "pack": "Island Living"
+  },
+  {
+    "id": "worldly-knowledge",
+    "name": "Worldly Knowledge",
+    "category": "Reward",
+    "aspiration": ["Mt. Komorebi Sightseer"],
+    "pack": "Snowy Escape"
+  },
+  {
+    "id": "fast-and-fastidious",
+    "name": "Fast & Fastidious",
+    "category": "Reward",
+    "aspiration": ["Perfectly Pristine"],
+    "pack": "Bust the Dust Kit"
+  },
+  {
+    "id": "filth-dweller",
+    "name": "Filth Dweller",
+    "category": "Reward",
+    "aspiration": ["Fabulously Filthy"],
+    "pack": "Bust the Dust Kit"
+  },
+  {
+    "id": "player",
+    "name": "Player",
+    "category": "Reward",
+    "aspiration": ["Serial Romantic"],
+    "pack": null
+  },
+  {
+    "id": "companion",
+    "name": "Companion",
+    "category": "Reward",
+    "aspiration": ["Soulmate"],
+    "pack": null
+  },
+  {
+    "id": "survivalist",
+    "name": "Survivalist",
+    "category": "Reward",
+    "aspiration": ["Outdoor Enthusiast"],
+    "pack": "Outdoor Retreat"
+  },
+  {
+    "id": "naturalist",
+    "name": "Naturalist",
+    "category": "Reward",
+    "aspiration": ["Freelance Botanist"],
+    "pack": null
+  },
+  {
+    "id": "anglers-tranquility",
+    "name": "Angler's Tranquility",
+    "category": "Reward",
+    "aspiration": ["Angling Ace"],
+    "pack": null
+  },
+  {
+    "id": "appraiser",
+    "name": "Appraiser",
+    "category": "Reward",
+    "aspiration": ["The Curator"],
+    "pack": null
+  },
+  {
+    "id": "treasure-hunter",
+    "name": "Treasure Hunter",
+    "category": "Reward",
+    "aspiration": ["Jungle Explorer"],
+    "pack": "Jungle Adventure"
+  },
+  {
+    "id": "master-mixer",
+    "name": "Master Mixer",
+    "category": "Reward",
+    "aspiration": ["Purveyor of Potions"],
+    "pack": "Realm of Magic"
+  },
+  {
+    "id": "influential-individual",
+    "name": "Influential Individual",
+    "category": "Reward",
+    "aspiration": ["Eco Innovator"],
+    "pack": "Eco Lifestyle"
+  },
+  {
+    "id": "nature-conversationalist",
+    "name": "Nature Conversationalist",
+    "category": "Reward",
+    "aspiration": ["Country Caretaker"],
+    "pack": "Cottage Living"
+  },
+  {
+    "id": "natural-leader",
+    "name": "Natural Leader",
+    "category": "Reward",
+    "aspiration": ["Leader of the Pack"],
+    "pack": "Get Together"
+  },
+  {
+    "id": "hilarious",
+    "name": "Hilarious",
+    "category": "Reward",
+    "aspiration": ["Joke Star"],
+    "pack": null
+  },
+  {
+    "id": "beloved",
+    "name": "Beloved",
+    "category": "Reward",
+    "aspiration": ["Friend of the World"],
+    "pack": null
+  },
+  {
+    "id": "perfect-host",
+    "name": "Perfect Host",
+    "category": "Reward",
+    "aspiration": ["Party Animal"],
+    "pack": null
+  },
+  {
+    "id": "confidante",
+    "name": "Confidante",
+    "category": "Reward",
+    "aspiration": ["Neighborhood Confidante"],
+    "pack": null
+  },
+  {
+    "id": "regained-humanity",
+    "name": "Regained Humanity",
+    "category": "Reward",
+    "aspiration": ["Good Vampire"],
+    "pack": "Vampires"
+  },
+  {
+    "id": "unstoppable-fame",
+    "name": "Unstoppable Fame",
+    "category": "Reward",
+    "aspiration": ["World-Famous Celebrity"],
+    "pack": "Get Famous"
+  },
+  {
+    "id": "heroic-presence",
+    "name": "Heroic Presence",
+    "category": "Reward",
+    "aspiration": ["Paragon of Hope"],
+    "pack": "Journey to Batuu"
+  },
+  {
+    "id": "sleight-of-hand",
+    "name": "Sleight of Hand",
+    "category": "Reward",
+    "aspiration": ["Galactic Privateer"],
+    "pack": "Journey to Batuu"
+  },
+  {
+    "id": "supreme-authority",
+    "name": "Supreme Authority",
+    "category": "Reward",
+    "aspiration": ["Enforcer of Order"],
+    "pack": "Journey to Batuu"
+  },
+  {
+    "id": "calming-aura",
+    "name": "Calming Aura",
+    "category": "Reward",
+    "aspiration": ["Zen Guru"],
+    "pack": "Spa Day"
+  },
+  {
+    "id": "clear-perspective",
+    "name": "Clear Perspective",
+    "category": "Reward",
+    "aspiration": ["Inner Peace"],
+    "pack": "Spa Day"
+  },
+  {
+    "id": "self-care-expertise",
+    "name": "Self-Care Expertise",
+    "category": "Reward",
+    "aspiration": ["Self-Care Specialist"],
+    "pack": "Spa Day"
+  },
+  {
+    "id": "fanged-friend",
+    "name": "Fanged Friend",
+    "category": "Reward",
+    "aspiration": ["Werewolf Initiate"],
+    "pack": "Werewolves"
+  },
+  {
+    "id": "refined-lupine",
+    "name": "Refined Lupine",
+    "category": "Reward",
+    "aspiration": ["Emissary of the Collective"],
+    "pack": "Werewolves"
+  },
+  {
+    "id": "chomp-champion",
+    "name": "Chomp Champion",
+    "category": "Reward",
+    "aspiration": ["Wildfang Renegade"],
+    "pack": "Werewolves"
+  },
+  {
+    "id": "threatening-presence",
+    "name": "Threatening Presence",
+    "category": "Reward",
+    "aspiration": ["Lone Wolf"],
+    "pack": "Werewolves"
+  },
+  {
+    "id": "lunar-link",
+    "name": "Lunar Link",
+    "category": "Reward",
+    "aspiration": ["Cure Seeker"],
+    "pack": "Werewolves"
+  },
+  {
+    "id": "untroubled",
+    "name": "Untroubled",
+    "category": "Reward",
+    "aspiration": ["Drama Llama"],
+    "pack": "High School Years"
+  },
+  {
+    "id": "highflier",
+    "name": "Highflier",
+    "category": "Reward",
+    "aspiration": ["Goal Oriented"],
+    "pack": "High School Years"
+  },
+  {
+    "id": "dauntless",
+    "name": "Dauntless",
+    "category": "Reward",
+    "aspiration": ["Live Fast"],
+    "pack": "High School Years"
+  },
+  {
+    "id": "iconic",
+    "name": "Iconic",
+    "category": "Reward",
+    "aspiration": ["Admired Icon"],
+    "pack": "High School Years"
+  },
+  {
+    "id": "sickness-resistance",
+    "name": "Sickness Resistance",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Get To Work"
+  },
+  {
+    "id": "critically-connected",
+    "name": "Critically Connected",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "City Living"
+  },
+  {
+    "id": "master-of-the-sea",
+    "name": "Master of the Sea",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Island Living"
+  },
+  {
+    "id": "natural-speaker",
+    "name": "Natural Speaker",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Island Living"
+  },
+  {
+    "id": "seasoned-gamer",
+    "name": "Seasoned Gamer",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Discover University"
+  },
+  {
+    "id": "mental-magister",
+    "name": "Mental Magister",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Discover University"
+  },
+  {
+    "id": "champion-of-the-people",
+    "name": "Champion of the People",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Eco Lifestyle"
+  },
+  {
+    "id": "eco-engineer",
+    "name": "Eco-Engineer",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Eco Lifestyle"
+  },
+  {
+    "id": "legendary-stamina",
+    "name": "Legendary Stamina",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Snowy Escape"
+  },
+  {
+    "id": "charismatic-crooner",
+    "name": "Charismatic Crooner",
+    "category": "Career",
+    "aspiration": [],
+    "pack": "Snowy Escape"
+  },
+  {
+    "id": "angelic",
+    "name": "Angelic",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": 1
+  },
+  {
+    "id": "charmer",
+    "name": "Charmer",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": 1
+  },
+  {
+    "id": "clingy",
+    "name": "Clingy",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": -1
+  },
+  {
+    "id": "fussy",
+    "name": "Fussy",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": -1
+  },
+  {
+    "id": "independent",
+    "name": "Independent",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": 1
+  },
+  {
+    "id": "inquisitive",
+    "name": "Inquisitive",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": 0
+  },
+  {
+    "id": "silly",
+    "name": "Silly",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": 1
+  },
+  {
+    "id": "wild",
+    "name": "Wild",
+    "category": "toddler",
+    "aspiration": [],
+    "pack": null,
+    "positivity": 0
+  },
+  {
+    "id": "creatively-gifted",
+    "name": "Creatively Gifted",
+    "category": "child-reward",
+    "aspiration": ["Artistic Prodigy"],
+    "pack": null
+  },
+  {
+    "id": "mentally-gifted",
+    "name": "Mentally Gifted",
+    "category": "child-reward",
+    "aspiration": ["Whiz Kid"],
+    "pack": null
+  },
+  {
+    "id": "physically-gifted",
+    "name": "Physically Gifted",
+    "category": "child-reward",
+    "aspiration": ["Rambunctious Scamp"],
+    "pack": null
+  },
+  {
+    "id": "socially-gifted",
+    "name": "Socially Gifted",
+    "category": "child-reward",
+    "aspiration": ["Social Butterfly"],
+    "pack": null
+  }
+]
