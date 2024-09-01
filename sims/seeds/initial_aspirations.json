@@ -2,7 +2,7 @@
     {
       "id": "aspiration-1",
       "name": "Friend of the Animals",
-      "reward_trait": "Animal Whispere",
+      "reward_trait": "Animal Whisperer",
       "bonus_trait": "Animal Affection",
       "category": "Animal",
       "pack": "Cats & Dogs",
@@ -65,7 +65,7 @@
     {
       "id": "aspiration-8",
       "name": "Master Actor/Master Actress",
-      "reward_trait": "World-Renowned Actor/Actress",
+      "reward_trait": "World-Renowned Actor",
       "bonus_trait": "Muser",
       "category": "Creativity",
       "pack": "Get Famous",
@@ -283,7 +283,7 @@
     {
       "id": "aspiration-24",
       "name": "Computer Whiz",
-      "reward_trait": "High Tech",
+      "reward_trait": "Webmaster",
       "bonus_trait": "Quick Learner",
       "category": "Knowledge",
       "pack": null,
@@ -297,7 +297,7 @@
     {
       "id": "aspiration-25",
       "name": "Master Vampire",
-      "reward_trait": "Master Vampire",
+      "reward_trait": "A True Master",
       "bonus_trait": "Quick Learner",
       "category": "Knowledge",
       "pack": "Vampires",
@@ -770,6 +770,7 @@
       "id": "child-aspiration-1",
       "name": "Artistic Prodigy",
       "reward_trait": "Creatively Gifted",
+      "bonus_trait": null,
       "category": "creativity",
       "pack": null,
       "restriction": [

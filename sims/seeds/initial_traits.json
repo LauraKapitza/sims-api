@@ -633,6 +633,13 @@
     "pack": "Journey to Batuu"
   },
   {
+    "id": "prepared-voyager",
+    "name": "A Gift of Credits",
+    "category": "Reward",
+    "aspiration": ["Star Wars"],
+    "pack": "Journey to Batuu"
+  },
+  {
     "id": "relatable",
     "name": "Relatable",
     "category": "Bonus",
